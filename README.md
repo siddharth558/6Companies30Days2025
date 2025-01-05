@@ -1,10 +1,6 @@
-# 6-Companies_30_Days_Challenge
-
 # 6-Companies 30-Days Challenge
 
 Welcome to **Arsh Goyal's 6-Companies 30-Days Challenge**! This challenge is designed to help you master DSA (Data Structures and Algorithms) through curated questions from top companies like **Microsoft, Amazon, Goldman Sachs, Adobe, Flipkart, and Google**.
-
----
 
 ## Challenge Overview
 
